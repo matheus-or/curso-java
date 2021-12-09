@@ -5,7 +5,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//EXEMPLO Exercício resolvido 1
+		//EXEMPLO ExercÃ­cio resolvido 1
 //		Locale.setDefault(Locale.US);
 //		Scanner sc = new Scanner(System.in);
 //		
@@ -21,7 +21,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 1
+		//ExercÃ­cio 1
 		
 //		Scanner sc = new Scanner(System.in);
 //		
@@ -33,7 +33,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 2
+		//ExercÃ­cio 2
 //		Locale.setDefault(Locale.US);
 //		Scanner sc = new Scanner(System.in);
 //		
@@ -45,7 +45,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 3
+		//ExercÃ­cio 3
 		
 //		Scanner sc = new Scanner(System.in);
 //		
@@ -59,7 +59,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 4
+		//ExercÃ­cio 4
 		
 //		Locale.setDefault(Locale.US);
 //		
@@ -75,7 +75,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 5
+		//ExercÃ­cio 5
 		
 //		Locale.setDefault(Locale.US);
 //		Scanner sc = new Scanner(System.in);
@@ -93,7 +93,7 @@ public class Main {
 //		
 //		sc.close();
 		
-		//Exercício 6
+		//ExercÃ­cio 6
 		
 		Locale.setDefault(Locale.US);
 		
