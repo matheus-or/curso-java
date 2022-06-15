@@ -40,5 +40,9 @@
         <module>curso_programacao</module>
         <module>exercicios-estrutura-condicional</module>
         <module>exercicios-estrutura-sequencial</module>
+        <module>S8-E02</module>
+        <module>S8-E03</module>
+        <module>S8-E04</module>
+        <module>S9-A02</module>
     </modules>
 </project>
