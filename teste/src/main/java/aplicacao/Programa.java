@@ -1,11 +1,14 @@
 package aplicacao;
 
+import br.com.matheus.model.Product;
 import dominio.Pessoa;
 
 public class Programa {
 
 	public static void main(String[] args) {
-		
+
+		Product product = new Product();
+
 		Pessoa p1 = new Pessoa(1, "Carlos da Silva", "carlos@gmail.com"); 
 		Pessoa p2 = new Pessoa(2, "Joaquim Torres", "joaquim@gmail.com"); 
 		Pessoa p3 = new Pessoa(3, "Ana Maria", "ana@gmail.com"); 
