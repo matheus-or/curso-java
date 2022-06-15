@@ -38,5 +38,7 @@
         <module>cource</module>
         <module>curso-programacao-2</module>
         <module>curso_programacao</module>
+        <module>exercicios-estrutura-condicional</module>
+        <module>exercicios-estrutura-sequencial</module>
     </modules>
 </project>
