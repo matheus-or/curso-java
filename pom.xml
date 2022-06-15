@@ -18,5 +18,7 @@
         <module>S9-A82</module>
         <module>S10-A87</module>
         <module>teste</module>
+        <module>teste2</module>
+        <module>teste-processamento</module>
     </modules>
 </project>
