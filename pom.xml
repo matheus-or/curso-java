@@ -16,6 +16,7 @@
     <modules>
         <module>S9-A79</module>
         <module>S9-A82</module>
-        <module>uri-online</module>
+        <module>S10-A87</module>
+        <module>teste</module>
     </modules>
 </project>
