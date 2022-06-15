@@ -35,5 +35,6 @@
         <module>exercicio-estrutura-repetitiva-while</module>
         <module>exercicio-estrutura-repetitiva-for</module>
         <module>entrada-dados</module>
+        <module>cource</module>
     </modules>
 </project>
