@@ -2,21 +2,47 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>br.com.matheus</groupId>
+    <artifactId>curso-java</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Curso Java</name>
+    <description>Estudo de JAVA</description>
+    <organization>
+        <name>Meu Curso</name>
+        <url>http://www.meucurso.com.br</url>
+    </organization>
+
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-    <modelVersion>4.0.0</modelVersion>
-
-    <groupId>br.com.matheus</groupId>
-    <artifactId>curso-java</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>commons</module>
+        <module>S8-A67</module>
+        <module>S8-E01</module>
+        <module>S9-A03</module>
         <module>S9-A79</module>
         <module>S9-A82</module>
         <module>S10-A87</module>
         <module>teste</module>
+        <module>teste2</module>
+        <module>teste-processamento</module>
+        <module>exercicio_1</module>
+        <module>exercicio-estrutura-repetitiva-while</module>
+        <module>exercicio-estrutura-repetitiva-for</module>
+        <module>entrada-dados</module>
+        <module>cource</module>
+        <module>curso-programacao-2</module>
+        <module>curso_programacao</module>
+        <module>exercicios-estrutura-condicional</module>
+        <module>exercicios-estrutura-sequencial</module>
+        <module>S8-E02</module>
+        <module>S8-E03</module>
+        <module>S8-E04</module>
+        <module>S9-A02</module>
     </modules>
 </project>
