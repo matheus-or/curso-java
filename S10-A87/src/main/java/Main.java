@@ -1,10 +1,14 @@
 
 public class Main {
 	public static void main(String[] args) {
+
+
 		int p;
-		p = 10;
-		System.out.println(p);
-		
+//        System.out.println(p);
+
+        p = 10;
+        System.out.println(p);
+
 		char p2;
 		p2 = 's';
 		System.out.println(p2);
