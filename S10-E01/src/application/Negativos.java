@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program01 {
+public class Negativos {
 
     public static void main(String[] args) {
 

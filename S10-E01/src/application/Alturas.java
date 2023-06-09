@@ -5,7 +5,7 @@ import entities.Pessoa;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program03 {
+public class Alturas {
 
     public static void main(String[] args) {
 
