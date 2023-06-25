@@ -45,5 +45,7 @@
         <module>S8-E04</module>
         <module>S9-A02</module>
         <module>S10-E02</module>
+        <module>S10-A97</module>
+        <module>S10-A98</module>
     </modules>
 </project>
