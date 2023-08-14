@@ -16,8 +16,8 @@
     </organization>
 
     <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <modules>
@@ -55,5 +55,6 @@
         <module>S10-A102</module>
         <module>S11-DataHora</module>
         <module>S13-EnumeracaoComposicao</module>
+        <module>S13EnumeracaoComposicaoEF1</module>
     </modules>
 </project>
