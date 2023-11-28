@@ -34,15 +34,15 @@
         <module>curso_programacao</module>
         <module>exercicios-estrutura-condicional</module>
         <module>exercicios-estrutura-sequencial</module>
-        <module>S9-A03</module>
-        <module>S9-A02</module>
-        <module>S8-A67</module>
-        <module>S9-A79</module>
-        <module>S9-A82</module>
-        <module>S8-E01</module>
-        <module>S8-E02</module>
-        <module>S8-E03</module>
-        <module>S8-E04</module>
+        
+        
+        
+        
+        
+        
+        
+        
+        
         <module>S10-E01</module>
         <module>S10-E02</module>
         <module>S10-E03</module>
@@ -56,5 +56,14 @@
         <module>S11-DataHora</module>
         <module>S13-EnumeracaoComposicao</module>
         <module>S13EnumeracaoComposicaoEF1</module>
+        <module>S8-A67</module>
+        <module>S8-E01</module>
+        <module>S8-E02</module>
+        <module>S8-E03</module>
+        <module>S8-E04</module>
+        <module>S9-A02</module>
+        <module>S9-A03</module>
+        <module>S9-A79</module>
+        <module>S9-A82</module>
     </modules>
 </project>

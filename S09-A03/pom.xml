@@ -6,10 +6,8 @@
         <artifactId>curso-java</artifactId>
         <groupId>br.com.matheus</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>..</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
-    <artifactId>S9-A79</artifactId>
-
-
+    <artifactId>S09-A03</artifactId>
 </project>
