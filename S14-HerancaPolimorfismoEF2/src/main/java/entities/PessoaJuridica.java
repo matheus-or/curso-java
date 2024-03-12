@@ -4,10 +4,6 @@ public class PessoaJuridica extends Pessoa {
 
 	private Integer numeroFuncionarios;
 
-	public PessoaJuridica() {
-		super();
-	}
-
 	public PessoaJuridica(String nome, Double rendaAnual, Integer numeroFuncionarios) {
 		super(nome, rendaAnual);
 		this.numeroFuncionarios = numeroFuncionarios;
@@ -23,16 +19,10 @@ public class PessoaJuridica extends Pessoa {
 
 	@Override
 	public double valorImpostoPago() {
-		
-		double imposto = 0.0;
-		
-		if(this.numeroFuncionarios > 10) {
-			imposto = (super.getRendaAnual() / 100) * 14;
+		if (this.numeroFuncionarios > 10) {
+			return super.getRendaAnual() * 0.14;
 		} else {
-			imposto = (super.getRendaAnual() / 100) * 16;
+			return super.getRendaAnual() * 0.16;
 		}
-		
-		return imposto;
 	}
-
 }

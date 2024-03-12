@@ -4,10 +4,10 @@ public abstract class Pessoa {
 
 	private String nome;
 	private Double rendaAnual;
-	
+
 	public Pessoa() {
 	}
-	
+
 	public Pessoa(String nome, Double rendaAnual) {
 		this.nome = nome;
 		this.rendaAnual = rendaAnual;
@@ -28,6 +28,6 @@ public abstract class Pessoa {
 	public void setRendaAnual(Double rendaAnual) {
 		this.rendaAnual = rendaAnual;
 	}
-	
-	public abstract double valorImpostoPago();	
+
+	public abstract double valorImpostoPago();
 }
