@@ -72,5 +72,6 @@
 		
 		<module>S14-HerancaPolimorfismoEF1</module>
 		<module>S14-HerancaPolimorfismoEF2</module>
+		<module>S15-TratamentoExcecoes</module>
 	</modules>
 </project>
