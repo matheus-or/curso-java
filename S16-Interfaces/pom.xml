@@ -5,5 +5,5 @@
     <artifactId>curso-java</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>S14-TratamentoExcecoes</artifactId>
+  <artifactId>S16-Interfaces</artifactId>
 </project>

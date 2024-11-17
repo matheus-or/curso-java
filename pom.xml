@@ -72,7 +72,9 @@
 		
 		<module>S14-HerancaPolimorfismoEF1</module>
 		<module>S14-HerancaPolimorfismoEF2</module>
-		<module>S15-TratamentoExcecoes</module>
+		<module>S14-TratamentoExcecoes</module>
 		<module>S15-TrabalhandoComArquivos</module>
+		
+		<module>S16-Interfaces</module>
 	</modules>
 </project>
