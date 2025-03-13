@@ -77,5 +77,6 @@
 		
 		<module>S16-Interfaces</module>
 		<module>S14-TratamentoExcecoes</module>
+		<module>S13-EnumeracaoComposicaoEF1</module>
 	</modules>
 </project>
