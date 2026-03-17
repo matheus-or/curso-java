@@ -16,8 +16,8 @@
 	</organization>
 
 	<properties>
-		<maven.compiler.source>17</maven.compiler.source>
-		<maven.compiler.target>17</maven.compiler.target>
+		<maven.compiler.source>21</maven.compiler.source>
+		<maven.compiler.target>21</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -48,17 +48,10 @@
 		<module>S11-DataHora</module>
 		<module>S13-EnumeracaoComposicao</module>
 		<module>S13EnumeracaoComposicaoEF1</module>
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
 		<module>S14-HerancaPolimorfismo</module>
-		
+
 		<module>S08-A67</module>
 		<module>S08-E01</module>
 		<module>S08-E02</module>
@@ -68,8 +61,8 @@
 		<module>S09-A03</module>
 		<module>S09-A79</module>
 		<module>S09-A82</module>
-		
-		
+
+
 		<module>S14-HerancaPolimorfismoEF1</module>
 		<module>S14-HerancaPolimorfismoEF2</module>
 		<module>S15-TratamentoExcecoes</module>
